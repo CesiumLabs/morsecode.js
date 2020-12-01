@@ -1,5 +1,5 @@
 {
-  "name": "morsecode.js",
+  "name": "@devsnowflake/morsecode.js",
   "version": "1.0.0",
   "description": "Simple package to encode/decode morse code",
   "main": "index.js",
