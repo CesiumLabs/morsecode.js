@@ -1,0 +1,26 @@
+{
+  "name": "morsecode.js",
+  "version": "1.0.0",
+  "description": "Simple package to encode/decode morse code",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd test && node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevSnowflake/morsecode.js.git"
+  },
+  "keywords": [
+    "morse",
+    "morsecode",
+    "morsecode-encoder",
+    "morsecode-decoder"
+  ],
+  "author": "Snowflake107 <devsnowflake107@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/DevSnowflake/morsecode.js/issues"
+  },
+  "homepage": "https://github.com/DevSnowflake/morsecode.js#readme",
+  "dependencies": {}
+}
