@@ -4,7 +4,7 @@ Simple package to encode/decode morse code.
 # Installing
 
 ```sh
-$ npm i morsecode.js
+$ npm i @devsnowflake/morsecode.js
 ```
 
 # Example
